@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+# I am Tasrik
+# Student at Noakhali Science and Technology University, Noakhali. 
+# B.Sc. Engineering in Computer Science and Telecommunication Engineering
+
+
 <!--
 **Md-Tasrik/MD-Tasrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
