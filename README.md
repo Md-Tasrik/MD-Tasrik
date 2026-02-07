@@ -1,6 +1,7 @@
 # Hi 👋, I'm Tasrik
 ### Problem Solver
-Student at Noakhali Science and Technology University, Noakhali. 
+Student at Noakhali Science and Technology University, Noakhali.   
+
 B.Sc. Engineering in Computer Science and Telecommunication Engineering
 
 <!--
