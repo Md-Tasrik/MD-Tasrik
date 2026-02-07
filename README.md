@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 # I am Tasrik
-# Student at Noakhali Science and Technology University, Noakhali. 
-# B.Sc. Engineering in Computer Science and Telecommunication Engineering
+### Student at Noakhali Science and Technology University, Noakhali. 
+### B.Sc. Engineering in Computer Science and Telecommunication Engineering
 
 
 <!--
