@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mdtasrik2001@gmail.com
 - 🌐 Some Social Platforms links:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINK](https://www.linkedin.com/in/md-tasrik-5b3600272/))
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([YOUR_LINK](https://x.com/md_tasrik1))
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([YOUR_LINK](https://www.facebook.com/md.tasrik.9/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tasrik-5b3600272/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/md_tasrik1)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.tasrik.9/)
 
 
 ## Languages and Tools:
