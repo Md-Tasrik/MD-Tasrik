@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ### 💻 Competitive Programming
-[![Codeforces](https://shields.io)](https://codeforces.com)
+[![Codeforces](https://shields.io)][(https://codeforces.com](https://codeforces.com/profile/Md_Tasrik))
 [![CodeChef](https://shields.io)](https://codechef.com)
 [![LeetCode](https://shields.io)](https://leetcode.com)
 [![HackerRank](https://shields.io)](https://hackerrank.com)
