@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=MD-Tasrik)
 
 - 📫 How to reach me: mdtasrik2001@gmail.com
-- 📫 Portfolio website: [mdtasrik2001@gmail.com](https://mdtasrikportfolio.netlify.app/)
+- 📫 Portfolio website: [https://mdtasrikportfolio.netlify.app/]
 - 🌐 Some Social Platforms links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tasrik-5b3600272/)
