@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=MD-Tasrik)
 
 - 📫 How to reach me: mdtasrik2001@gmail.com
-- 📫 Portfolio website: [https://mdtasrikportfolio.netlify.app/]
+- 📫 Portfolio website: https://mdtasrikportfolio.netlify.app
 - 🌐 Some Social Platforms links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tasrik-5b3600272/)
@@ -52,6 +52,10 @@ Here are some ideas to get you started:
 
 ## 💻 Competitive Programming
 
+- **Codeforces**: Specialist, Max Rating: 1440
+- **CodeChef**: 3 Star, Max Rating: 1700+
+- **Problem Solving**: Solved more than 2000 problems across platforms
+  
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Md_Tasrik)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/md_tasrik)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Md_Tasrik/)
