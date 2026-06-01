@@ -20,3 +20,17 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=MD-Tasrik)
+
+
+### 💻 Competitive Programming
+[![Codeforces](https://shields.io)](https://codeforces.com)
+[![CodeChef](https://shields.io)](https://codechef.com)
+[![LeetCode](https://shields.io)](https://leetcode.com)
+[![HackerRank](https://shields.io)](https://hackerrank.com)
+
+
+### 🌐 Developer Profiles
+[![Stack Overflow](https://shields.io)](https://stackoverflow.com)
+[![GeeksforGeeks](https://shields.io)](https://geeksforgeeks.org)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+
