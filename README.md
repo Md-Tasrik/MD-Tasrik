@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: mdtasrik2001@gmail.com
 - 📫 Portfolio website: https://mdtasrikportfolio.netlify.app
-- 🌐 Some Social Platforms links:
+
+## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tasrik-5b3600272/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](mdtasrik)
