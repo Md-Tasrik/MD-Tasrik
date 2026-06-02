@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Md_Tasrik/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/mdtasrik_23)
 
+<!-- comment
 
 ## 📊 GitHub Stats
 
@@ -86,3 +87,4 @@ Here are some ideas to get you started:
 ![Profile Views](https://komarev.com/ghpvc/?username=MD-Tasrik)
 ![GitHub Followers](https://img.shields.io/github/followers/MD-Tasrik?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/MD-Tasrik?style=social)
+-->
