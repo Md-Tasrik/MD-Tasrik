@@ -69,3 +69,20 @@ Here are some ideas to get you started:
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/mdtasrik_23)
 
 
+## 📊 GitHub Stats
+
+![Tasrik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MD-Tasrik&show_icons=true&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MD-Tasrik&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Tasrik&layout=compact&hide_border=true)
+
+## 📈 Contribution Graph
+
+![Tasrik's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MD-Tasrik&theme=github-light)
+
+## 🏆 Achievements
+
+![Profile Views](https://komarev.com/ghpvc/?username=MD-Tasrik)
+![GitHub Followers](https://img.shields.io/github/followers/MD-Tasrik?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/MD-Tasrik?style=social)
