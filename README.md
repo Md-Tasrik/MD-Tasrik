@@ -1,5 +1,5 @@
 # Hi 👋, I'm Tasrik
-### Problem Solver
+### Competitive Programmer &  Analytical Problem Solver
 Student at Noakhali Science and Technology University, Noakhali.   
 
 B.Sc. Engineering in Computer Science and Telecommunication Engineering
