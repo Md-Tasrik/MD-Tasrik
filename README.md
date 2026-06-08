@@ -1,74 +1,42 @@
-# 👋 Welcome to My GitHub Profile
+![](https://komarev.com/ghpvc/?username=MD-Tasrik)
 
-I'm **Md-Tasrik**, a passionate software developer and technology enthusiast dedicated to building meaningful solutions through clean, efficient code. With expertise in competitive programming, full-stack web development, and algorithm design, I combine creativity with technical excellence.
 
-**Student at Noakhali Science and Technology University**  
-**B.Sc. Engineering in Computer Science and Telecommunication Engineering**
+# Hi 👋, I'm Md. Tasrik
+### Competitive Programmer &  Analytical Problem Solver
+Student at Noakhali Science and Technology University, Noakhali.   
 
----
+B.Sc. Engineering in Computer Science and Telecommunication Engineering
 
-## 🚀 About Me
+<!--
+**Md-Tasrik/MD-Tasrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I'm a results-driven developer with a strong foundation in computer science, combining competitive programming excellence with practical software development. My experience spans multiple domains—from enterprise-level web applications to algorithmic problem-solving—with a commitment to writing scalable, maintainable code.
+Here are some ideas to get you started:
 
-### Core Competencies:
-- **Backend Development:** PHP, Java, C#, Python
-- **Frontend Development:** HTML, CSS, JavaScript
-- **Database Management:** MySQL, MongoDB, SQL
-- **Competitive Programming:** Algorithms & Data Structures
-- **Full-Stack Development:** End-to-end application development
-- **Design Tools:** Figma, Adobe Creative Suite, Canva
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
----
 
-## 💻 Competitive Programming
+## 📞 Connect With Me
 
-I'm an accomplished competitive programmer with extensive problem-solving experience:
+I'm always open to collaboration, technical discussions, and new opportunities:
 
-- **Codeforces:** Specialist (Max Rating: 1440) - [Profile](https://codeforces.com/profile/Md_Tasrik)
-- **CodeChef:** 3-Star (Max Rating: 1700+) - [Profile](https://www.codechef.com/users/md_tasrik)
-- **LeetCode:** Active Problem Solver - [Profile](https://leetcode.com/u/Md_Tasrik/)
-- **HackerRank:** Skilled Programmer - [Profile](https://www.hackerrank.com/profile/mdtasrik_23)
-- **Total Problems Solved:** 2000+ across all platforms
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tasrik-5b3600272/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdtasrik2001@gmail.com)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/md_tasrik1)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.tasrik.9/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/mdtasrik)
 
----
+**📫 Email:** mdtasrik2001@gmail.com  
+**🌐 Portfolio:** [https://mdtasrikportfolio.netlify.app](https://mdtasrikportfolio.netlify.app)
 
-## 💼 Featured Projects
 
-### Web Applications & Enterprise Systems
-
-**[Online Course Registration System](https://github.com/Md-Tasrik/Online-Course-Registration-System)** - PHP  
-A comprehensive digital platform enabling students to register, browse courses, and manage enrollments with an intuitive user interface and secure authentication.
-
-**[Hospital Management System](https://github.com/Md-Tasrik/Hospital-Management-System-)** - Java  
-Enterprise-grade system designed to streamline hospital operations, patient management, and administrative workflows.
-
-**[Job Portal (DBMS Project)](https://github.com/Md-Tasrik/Job-Portal-DBMS-project)** - PHP  
-Full-featured job portal with sophisticated database architecture for job posting, application management, and candidate tracking.
-
-**[Voting System for CSTE Club](https://github.com/Md-Tasrik/Voting-System-For-CSTE-CLUB)** - PHP  
-Secure, user-friendly voting platform for organizational elections with role-based access control.
-
-### Frontend & UI Projects
-
-**[My Portfolio](https://github.com/Md-Tasrik/My-Portfolio)** - HTML/CSS  
-Professional portfolio website showcasing design and development capabilities.
-
-**[Food Delivery Website](https://github.com/Md-Tasrik/Food-delivery-website)** - HTML/CSS  
-Responsive, modern website for food delivery services with intuitive navigation.
-
-**[21-Days Challenge Website](https://github.com/Md-Tasrik/21-days-Challange-Website)** - HTML  
-Interactive web platform for tracking daily challenges and user progress.
-
-### Educational & Programming Resources
-
-**[Competitive Programming Guide](https://github.com/Md-Tasrik/Competitive-Programming-A-Complete-Guideline)** - Comprehensive resource  
-Complete guideline for mastering algorithms, data structures, and competitive programming techniques.
-
-**[Code Repository](https://github.com/Md-Tasrik/Codes)** - C#  
-Collection of well-documented programming solutions and implementations.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -104,29 +72,19 @@ Collection of well-documented programming solutions and implementations.
 
 ---
 
-## 🎯 Key Achievements
 
-✅ **Competitive Programming Excellence** - Specialist on Codeforces with 1440+ max rating  
-✅ **Problem-Solving Mastery** - Solved 2000+ problems across multiple platforms  
-✅ **Full-Stack Development** - Built enterprise applications from requirements to deployment  
-✅ **Database Design** - Designed and implemented complex SQL architectures  
-✅ **Technical Leadership** - Created educational resources for programming enthusiasts  
-✅ **Cross-Platform Expertise** - Proficient across frontend, backend, and database technologies  
 
----
+## 💻 Competitive Programming
 
-## 📞 Connect With Me
+- **Codeforces**: Specialist, Max Rating: 1440
+- **CodeChef**: 3 Star, Max Rating: 1700+
+- **Problem Solving**: Solved more than 2000 problems across platforms
+  
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Md_Tasrik)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/md_tasrik)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Md_Tasrik/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/mdtasrik_23)
 
-I'm always open to collaboration, technical discussions, and new opportunities:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-tasrik-5b3600272/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdtasrik2001@gmail.com)
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/md_tasrik1)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.tasrik.9/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/mdtasrik)
-
-**📫 Email:** mdtasrik2001@gmail.com  
-**🌐 Portfolio:** [https://mdtasrikportfolio.netlify.app](https://mdtasrikportfolio.netlify.app)
 
 ---
 
@@ -140,6 +98,26 @@ I'm always open to collaboration, technical discussions, and new opportunities:
 
 ---
 
-**⭐ If you find any of my projects useful, please consider giving them a star!**
+
+<!-- comment
+
+## 📊 GitHub Stats
+
+![Tasrik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MD-Tasrik&show_icons=true&theme=default&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MD-Tasrik&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MD-Tasrik&layout=compact&hide_border=true)
+
+## 📈 Contribution Graph
+
+![Tasrik's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MD-Tasrik&theme=github-light)
+
+## 🏆 Achievements
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MD-Tasrik)
+![GitHub Followers](https://img.shields.io/github/followers/MD-Tasrik?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/MD-Tasrik?style=social)
+-->
+
+
